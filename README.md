@@ -17,12 +17,14 @@ A simple and secure **Password Generator** built using Python. Customize the num
 ---
 
 ## 🧪 Example Output
-
+<pre>
 welcome to password generator!!!
 enter number of letters in your password: 5
 enter number of numbers in your password: 3
 enter number of symbols in your password: 2
 Your password is:2aR@8Kc&1
+
+</pre>
 
 
 ---
