@@ -51,7 +51,7 @@ Your password is:2aR@8Kc&1
 2. Clone this repository or download the script
 3. Open a terminal or command prompt and run:
 
-```bash
+
 python password_generator.py
 
 
