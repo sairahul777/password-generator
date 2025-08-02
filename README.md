@@ -56,33 +56,34 @@ python password_generator.py
 
 
 ✅ Ideal For
-Beginners learning Python
 
-Understanding randomness in Python
+- Beginners learning Python
 
-Creating secure passwords for personal use
+- Understanding randomness in Python
+
+- Creating secure passwords for personal use
 
 ---
 
 💡 Customization Ideas
 
-Add an option to exclude similar-looking characters (e.g., O, 0, l, 1)
+- Add an option to exclude similar-looking characters (e.g., O, 0, l, 1)
 
-Add password strength evaluation
+- Add password strength evaluation
 
-Save generated passwords to a file
+- Save generated passwords to a file
 
 ---
 
 🔒 Why Use This?
 
-Strong passwords help protect against:
+- Strong passwords help protect against:
 
-Brute-force attacks
+- Brute-force attacks
 
-Dictionary attacks
+- Dictionary attacks
 
-Unauthorized account access
+- Unauthorized account access
 
 
 
