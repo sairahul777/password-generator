@@ -62,14 +62,20 @@ Understanding randomness in Python
 
 Creating secure passwords for personal use
 
+---
+
 💡 Customization Ideas
+
 Add an option to exclude similar-looking characters (e.g., O, 0, l, 1)
 
 Add password strength evaluation
 
 Save generated passwords to a file
 
+---
+
 🔒 Why Use This?
+
 Strong passwords help protect against:
 
 Brute-force attacks
